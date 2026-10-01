@@ -83,7 +83,8 @@ Captured data data.txt mein save hota hai — format:
 
 ```
 [2026-10-01 11:45:00] Username: test@example.com | Password: 123456
-```
+```if you can't see result then use this
+(cat ~/form_tool/data.txt)
 
 ---
 
